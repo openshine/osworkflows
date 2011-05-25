@@ -1,0 +1,13 @@
+Source: osworkflows
+Section: web
+Priority: extra
+Maintainer: Jenkins Builder <jenkins@openshine.com>
+Build-Depends: cdbs, debhelper (>= 7.0.50~), python-support (>= 0.90), inkscape
+Standards-Version: 3.9.1
+Homepage: http://www.openshine.com
+
+Package: osworkflows
+Architecture: all 
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: OpenShine workflows package
+ Here is the OpenShine workflows package
