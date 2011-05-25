@@ -1,0 +1,14 @@
+.project
+.pydevproject
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*/*/*/*/*.pyc
+*/*/*/*/*/*.pyc
+*/*/*/*/*/*/*.pyc
+build/*
+.waf-*
+.lock*
+DEVROOT/*
+debian/changelog
